@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.bulb {
+  height: 250px;
+  width: 200px;
+}
+.page-container {
+  text-align: center;
+  margin: 20px 0;
+}
+.first-btn,
+.second-btn {
+  width: 150px;
+  height: 30px;
+  color: #000;
+  border-radius: 5px;
+  cursor: pointer;
+}
