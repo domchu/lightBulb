@@ -3,21 +3,17 @@
   padding: 0;
   list-style-type: none;
   text-decoration: none;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
-
 .bulb {
   margin-top: 20px;
   height: 300px;
   width: 200px;
 }
-
 .page-container {
   text-align: center;
   margin: 20px 0;
 }
-
 .first-btn,
 .second-btn {
   width: 150px;
@@ -26,18 +22,13 @@
   border-radius: 5px;
   cursor: pointer;
 }
-
 .first-btn:hover {
   background-color: #000;
-  -webkit-transition: 1s;
   transition: 1s;
   color: #fff;
 }
-
 .second-btn:hover {
   background-color: #000;
-  -webkit-transition: 1s;
   transition: 1s;
   color: #fff;
 }
-/*# sourceMappingURL=styles.css.map */
